@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Minimal Mistakes
+title:            Mimumaru
 locale:           en_US
 url:              http://mmistakes.github.io/minimal-mistakes
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: Mimumaru
   avatar: mim-bio.jpg
-  bio: "Just another boring, time traveling, tattooed, designer from Buffalo New York."
+  bio: "一緒に日本語を勉強しましょう！"
   email: michael@mademistakes.com
   disqus-shortname: minimalmistakes
   twitter: mmistakes
